@@ -1,3 +1,3 @@
-# Fucking HTNL pages
+# Fucking HTML pages
 
 [Simple scripts for time wasting.](https://iaah04.github.io/fucking-html-pages/)
